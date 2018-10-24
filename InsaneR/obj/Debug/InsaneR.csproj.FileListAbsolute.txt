@@ -130,3 +130,5 @@ C:\Users\Usuario\source\repos\InsaneR\InsaneR\obj\Debug\InsaneR.csproj.CoreCompi
 C:\Users\Usuario\source\repos\InsaneR\InsaneR\obj\Debug\InsaneR.csproj.CopyComplete
 C:\Users\Usuario\source\repos\InsaneR\InsaneR\obj\Debug\InsaneR.dll
 C:\Users\Usuario\source\repos\InsaneR\InsaneR\obj\Debug\InsaneR.pdb
+C:\Users\Luis Adrian\Source\Repos\LuisTellez\InsaneR-web\InsaneR\obj\Debug\InsaneR.csproj.CoreCompileInputs.cache
+C:\Users\Luis Adrian\Source\Repos\LuisTellez\InsaneR-web\InsaneR\obj\Debug\InsaneR.csprojResolveAssemblyReference.cache
