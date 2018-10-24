@@ -54,7 +54,7 @@ namespace InsaneR.Models
 
         [DataType(DataType.Password)]
         [Display(Name = "Confirme la contraseña nueva")]
-        [Compare("NewPassword", ErrorMessage = "La contraseña nueva y la contraseña de confirmación no coinciden.")]
+        [Compare("NewPassword", ErrorMessage = "La contraseña nueva y la contraseña de confirmación no coinciden.")] //Hola
         public string ConfirmPassword { get; set; }
     }
 
